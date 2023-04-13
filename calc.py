@@ -1,6 +1,7 @@
 # get two integer parameters
 # return sum
 # 한국전쟁
+# 북한군의 남침을 저지해야 한다.
 def plus(x, y):
     return x+y
 

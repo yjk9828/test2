@@ -1,5 +1,6 @@
 # get two integer parameters
 # return sum
+# 한국전쟁
 def plus(x, y):
     return x+y
 
